@@ -1,0 +1,22 @@
+{
+	"dev": true,
+	"interval": 30,
+	"connection": {
+		"host"    : "localhost",
+		"user"    : "root",
+		"password": "",
+		"database": "docq_development"
+	},	
+	"hashids": {
+		"alphabet": "MoLg1gOeHl6Bl8HyDTtb8CVC5fFRqX9S",
+		"length"  : 6
+	},
+	"thumbnail": {
+		"width" : 180,
+		"height": 215
+	},
+	"dirs": {
+		"docs"      : "S:/docs",
+		"thumbnails": "S:/thumbnails"
+	}
+}
